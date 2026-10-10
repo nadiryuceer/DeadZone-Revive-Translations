@@ -14776,5 +14776,37 @@
 		<removeEffectConfirm_ok><![CDATA[YES]]></removeEffectConfirm_ok>
 		<removeEffectConfirm_cancel><![CDATA[NO]]></removeEffectConfirm_cancel>			
 		
+		<options_aud_master><![CDATA[Master]]></options_aud_master>
+		<options_aud_combat><![CDATA[Combat & World]]></options_aud_combat>
+		<options_aud_ambient><![CDATA[Ambient]]></options_aud_ambient>
+		<options_aud_interface><![CDATA[Interface]]></options_aud_interface>
+		<options_aud_enable_voices><![CDATA[Enable Voices]]></options_aud_enable_voices>
+		<options_aud_background><![CDATA[Mute in Background]]></options_aud_background>
+		<options_aud_output><![CDATA[Output Device]]></options_aud_output>
+		<options_aud_system_default><![CDATA[System Default]]></options_aud_system_default>
+		<options_aud_system_hint><![CDATA[Managed by your system audio settings]]></options_aud_system_hint>
+		<options_aud_reset><![CDATA[Reset Defaults]]></options_aud_reset>
+		<options_vid_renderer><![CDATA[Rendering Mode]]></options_vid_renderer>
+		<options_vid_hardware><![CDATA[Hardware Accelerated]]></options_vid_hardware>
+		<options_vid_software><![CDATA[Software]]></options_vid_software>
+		<options_vid_profile><![CDATA[Profile]]></options_vid_profile>
+		<options_vid_performance><![CDATA[Performance]]></options_vid_performance>
+		<options_vid_balanced><![CDATA[Balanced]]></options_vid_balanced>
+		<options_vid_quality><![CDATA[Quality]]></options_vid_quality>
+		<options_vid_custom><![CDATA[Custom]]></options_vid_custom>
+		<options_vid_render_limit><![CDATA[Render Limit]]></options_vid_render_limit>
+		<options_vid_off><![CDATA[Off]]></options_vid_off>
+		<options_vid_low><![CDATA[Low]]></options_vid_low>
+		<options_vid_medium><![CDATA[Medium]]></options_vid_medium>
+		<options_vid_high><![CDATA[High]]></options_vid_high>
+		<options_vid_best><![CDATA[Best]]></options_vid_best>
+		<options_vid_dynamic><![CDATA[Dynamic Lighting]]></options_vid_dynamic>
+		<options_vid_static><![CDATA[Static Lighting]]></options_vid_static>
+		<options_vid_effects><![CDATA[Visual Effects]]></options_vid_effects>
+		<options_vid_full><![CDATA[All Effects]]></options_vid_full>
+		<options_vid_reduced><![CDATA[Fewer Effects]]></options_vid_reduced>
+		<options_vid_background><![CDATA[Reduce in Background]]></options_vid_background>
+		<options_vid_vector><![CDATA[Vector Quality]]></options_vid_vector>
+		<options_vid_hint><![CDATA[Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.]]></options_vid_hint>
 	</data>
 </lang>
