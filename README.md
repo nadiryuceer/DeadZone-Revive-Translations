@@ -21,6 +21,7 @@ providing a good translation for every English string.
 | `de` | Deutsch    | `translations_de.json`   |
 | `it` | Italiano   | `translations_it.json`   |
 | `pt` | Português  | `translations_pt.json`   |
+| `tr` | Türkçe     | `translations_tr.json`   |
 
 Only Latin-script languages are supported for now (the in-game font covers
 Latin characters and their accents). Languages that need another script, such
