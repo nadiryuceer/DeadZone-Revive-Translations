@@ -18,7 +18,7 @@ drawn as "ss", German's standard spelling when ß isn't available.
 ## Usage
 
 You need Python 3 and fontTools (`pip install fonttools`), plus the fonts as TTF files
-(the Godot client's `tools/ConvertSwfFonts.ps1` converts them from `en.swf`).
+exported from `en.swf`.
 
 ```bash
 python3 tools/fonts/extend_glyphs.py HelveticaNeueCond.ttf HelveticaNeueCond-Bold.ttf AlternateGothic.ttf --out build/fonts
